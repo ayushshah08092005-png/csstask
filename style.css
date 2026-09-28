@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.box{
+    height: 260px;
+    width: 260px;
+    margin: 10vh 25vw
+}
+
+#Temple{
+    background:  linear-gradient(to bottom,blue,purple);
+    font-size: 60px;
+    padding: 60px 20px;
+}
